@@ -1,0 +1,7 @@
+137
+44.93
+preservation products,kitchen utensil,baby cosmetics,bags
+QBUS9NZY39BE,0ZRF32AJ06BC,M722MPITBY07,M2DT2Z00NQCH,E7FD9BU4OK0F,WR2HDQL7MDVM
+Wednesday
+whole milk,other vegetables,rolls/buns,soda,yogurt
+("yogurt")->("whole milk")|("rolls/buns")->("whole milk") 
